@@ -16,7 +16,7 @@ For context, my languages of choice are C and C++. I have tried C#, Java, Python
 - Defer (like Go or Zig)
 
 ## Syntax
-- Whitespace sensitive ( ❤️ Haskell ❤️)
+- Whitespace sensitive (Haskell ❤️)
 - No semicolons
 - Pattern matching
 - Guard cases
