@@ -1,6 +1,8 @@
 # 🗒️ language-wishlist
 This is an attempt to list the attributes of the perfect programming language. This list is based entirely on my opinions.
 
+For context, my languages of choice are C and C++. I have tried C#, Java, Python, JavaScript, Go, and Haskell for various school and side projects.
+
 ## Design
 - Compiled
 - Statically typed
@@ -14,6 +16,7 @@ This is an attempt to list the attributes of the perfect programming language. T
 - Defer (like Go or Zig)
 
 ## Syntax
+- Whitespace sensitive ( ❤️ Haskell ❤️)
 - No semicolons
 - Pattern matching
 - Guard cases
