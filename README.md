@@ -6,7 +6,7 @@ For context, my languages of choice are C and C++. I have tried C#, Java, Python
 ## Design
 - Compiled
 - Statically typed
-- Opt in garbage collection
+- Garbage collection AND first class manual memory management
 - Immutable variables by default
 - Multi-paradigm (OOP, functional, procedural)
 - Comparable performance to modern C++ and safe Rust
