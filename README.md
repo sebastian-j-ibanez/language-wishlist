@@ -1,5 +1,5 @@
 # 🗒️ language-wishlist
-This is an attempt to list the attributes of the perfect programming language.
+This is an attempt to list the attributes of the perfect programming language. This list is based entirely on my opinions.
 
 ## Design
 - Compiled
