@@ -20,3 +20,4 @@ For context, my languages of choice are C and C++. I have tried C#, Java, Python
 - No semicolons
 - Pattern matching
 - Guard cases
+- Simple type names (i64, u8, etc. should be burned)
